@@ -2,11 +2,11 @@
 
 
 ## Problem Statement
-> Deployment and maintenance engineers who take care of site installations of any product,upgrade need to know the product completely
+> Deployment and maintenance engineers who take care of site installations of any product, upgrade need to know the product completely
 > Due to a lack of knowledge of the engineers due to attrition in the company every installation issue escalates to the Dev team.
 > Engineers new or experienced nowadays are negligent in reading the IM and other docs  provided by Dev either due to lack of time or they feel approaching Dev is a faster way to solve than reading the docs provided.
 > Hence due to the nature of intermediate engineers developers are stressed
-> Also developers don't feel the need to write an appropriate product install and other documents as devops engineers will not read them.
+> Also developers don't feel the need to write an appropriate product installation manual and other documents as DevOps engineers will not read them.
 
 
 
