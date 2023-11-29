@@ -12,6 +12,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Approach In Progress](#approach-in-progress)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
