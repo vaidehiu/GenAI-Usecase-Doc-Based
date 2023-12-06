@@ -2,11 +2,9 @@
 
 
 ## Problem Statement
-> Deployment and maintenance engineers who take care of site installations of any product, upgrade need to know the product completely
-> Due to a lack of knowledge of the engineers due to attrition in the company every installation issue escalates to the Dev team.
-> Engineers new or experienced nowadays are negligent in reading the IM and other docs  provided by Dev either due to lack of time or they feel approaching Dev is a faster way to solve than reading the docs provided.
-> Hence due to the nature of intermediate engineers developers are stressed
-> Also developers don't feel the need to write an appropriate product installation manual and other documents as DevOps engineers will not read them.
+- The complete understanding of our product is crucial for deployment and maintenance engineers responsible for site installations and upgrades. However, engineers' knowledge gaps due to attrition have led to increased reliance on the development team for issue resolution. This dependence persists, whether among new or experienced engineers, as they often neglect reading provided installation manuals (IM) and other documentation.
+- The absence of a robust understanding among engineers and the underutilization of provided documentation lead to frequent escalations to the development team, impacting overall productivity and efficiency.
+- The goal is to create an environment where engineers feel equipped and confident to resolve issues independently, reducing stress on the development team and enhancing overall operational efficiency.
 
 
 
